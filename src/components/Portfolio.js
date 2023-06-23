@@ -2,17 +2,27 @@ import React from 'react';
 
 const Portfolio = () => {
   return (
-    <section>
-      <h2>Portfolio</h2>
-      <div className="project">
-        <img src="project1-thumbnail.jpg" alt="Project 1" />
-        <h3>Project 1</h3>
-        <p>Description of Project 1.</p>
-        <a href="project1-demo-link">Demo</a>
-        <a href="project1-github-link">GitHub</a>
-      </div>
-      {/* Repeat the above structure for other projects */}
-    </section>
+    <div className="stack">
+  <div className="card shadow-md bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">HydroHomies</h2> 
+      <p>A fully functional E-Commerce App</p>
+    </div>
+  </div> 
+  <div className="card shadow bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">Notification 2</h2> 
+      <p>You have 3 unread messages. Tap here to see.</p>
+    </div>
+  </div> 
+  <div className="card shadow-sm bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">Notification 3</h2> 
+      <p>You have 3 unread messages. Tap here to see.</p>
+    </div>
+  </div>
+</div>
+
   );
 };
 
