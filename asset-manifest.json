@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PandaPro/static/css/main.e49a3682.css",
+    "main.js": "/PandaPro/static/js/main.334f38bf.js",
+    "static/js/787.e243572f.chunk.js": "/PandaPro/static/js/787.e243572f.chunk.js",
+    "index.html": "/PandaPro/index.html",
+    "main.e49a3682.css.map": "/PandaPro/static/css/main.e49a3682.css.map",
+    "main.334f38bf.js.map": "/PandaPro/static/js/main.334f38bf.js.map",
+    "787.e243572f.chunk.js.map": "/PandaPro/static/js/787.e243572f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49a3682.css",
+    "static/js/main.334f38bf.js"
+  ]
+}
