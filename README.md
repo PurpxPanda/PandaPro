@@ -9,7 +9,7 @@ This portfolio is a web application built using React, a popular JavaScript libr
 
 Deployed Application
 You can access the deployed version of my Full-Stack Web Developer Portfolio here.
-https://purpxpanda.github.io/PandaPro/Links to an external site.
+https://purpxpanda.github.io/PandaPro/
 
 Feel free to explore the portfolio, browse through my projects, and get in touch with me if you have any questions or opportunities you'd like to discuss.
 
