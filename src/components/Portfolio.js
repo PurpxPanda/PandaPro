@@ -11,16 +11,34 @@ const Portfolio = () => {
   </div> 
   <div className="card shadow bg-primary text-primary-content">
     <div className="card-body">
-      <h2 className="card-title">Notification 2</h2> 
-      <p>You have 3 unread messages. Tap here to see.</p>
+      <h2 className="card-title">Shared Lunch</h2> 
+      <p>A blog Post type website for connecting resturants to Food Unstable Homes</p>
     </div>
   </div> 
   <div className="card shadow-sm bg-primary text-primary-content">
     <div className="card-body">
-      <h2 className="card-title">Notification 3</h2> 
-      <p>You have 3 unread messages. Tap here to see.</p>
+      <h2 className="card-title">Miphy</h2> 
+      <p>A GIF website that gives you gifs based on the movie typed in.</p>
     </div>
   </div>
+  <div className="card shadow-md bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">JS Quiz</h2> 
+      <p>A timed quiz with a leaderboard made in JS</p>
+    </div>
+    <div className="card shadow-md bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">Panda Store</h2> 
+      <p> The backend for an e-commerce site built using Express.js and Sequelize</p>
+    </div>
+    <div className="card shadow-md bg-primary text-primary-content">
+    <div className="card-body">
+      <h2 className="card-title">Panda Weather</h2> 
+      <p>A Weather App using the OpenWeatherAPI</p>
+    </div>
+</div>
+</div>
+</div>
 </div>
 
   );
